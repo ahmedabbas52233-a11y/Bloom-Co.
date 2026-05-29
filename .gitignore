@@ -1,0 +1,26 @@
+# Compiled output
+out/
+*.class
+
+# Packaged jar (keep BloomShop.jar in repo as a release artifact)
+# *.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle (for when you add a build tool in Phase 3)
+target/
+build/
+.gradle/
+*.gradle.kts.bak
+
+# Test output
+test-output/
